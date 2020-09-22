@@ -6,3 +6,6 @@ server
   port :8002
 
 
+
+application1
+  name1: dev
