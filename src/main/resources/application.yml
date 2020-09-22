@@ -9,3 +9,5 @@ server
 
 application1
   name1: dev
+application2
+  name2: prod
